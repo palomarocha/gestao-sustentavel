@@ -1,6 +1,7 @@
 .hero {
   background: url('../assets/images/forest.jpg') center/cover no-repeat;
   height: 80vh;
+  margin-top: 70px;
   display: flex;
   align-items: center;
   justify-content: center;
