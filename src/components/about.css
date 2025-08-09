@@ -65,8 +65,8 @@
 @media (max-width: 480px) {
   .about {
     padding: 1rem;
-    min-height: 360px;
-    margin-top:2rem;
+    min-height: auto;
+    margin-top: 1.5rem;
   }
 
   .about-content {
