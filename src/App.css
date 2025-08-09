@@ -1,0 +1,13 @@
+@font-face {
+  font-family: heading;
+  src: url(../src/assets/fonts/Heading-Pro-Bold-trial.ttf);
+}
+
+body {
+  margin: 0;
+  font-family: 'Poppins', sans-serif;
+}
+
+html {
+  scroll-behavior: smooth;
+}

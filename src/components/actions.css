@@ -1,0 +1,59 @@
+.actions {
+  background-color: #2d5a27;
+  padding: 3rem;
+  text-align: center;
+}
+
+.actions h2 {
+  margin-bottom: 2rem;
+  color: #ffffff;
+}
+
+.cards {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(220px, 1fr));
+  gap: 1.6rem;
+}
+
+.card {
+  background: #ffffff;
+  color: #2d5a27;
+  padding: 2rem;
+  border-radius: 10px;
+  font-weight: bold;
+}
+
+@media (max-width: 768px) {
+  .actions {
+    padding: 2rem;
+  }
+
+  .actions h2 {
+    font-size: 1.6rem;
+  }
+
+  .card {
+    padding: 1.5rem;
+    font-size: 0.95rem;
+  }
+}
+
+@media (max-width: 480px) {
+  .actions {
+    padding: 1.5rem;
+  }
+
+  .actions h2 {
+    font-size: 1.4rem;
+  }
+
+  .cards {
+    grid-template-columns: 1fr;
+    gap: 1rem;
+  }
+
+  .card {
+    padding: 1.2rem;
+    font-size: 0.9rem;
+  }
+}
