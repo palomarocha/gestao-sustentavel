@@ -65,7 +65,8 @@
 @media (max-width: 480px) {
   .about {
     padding: 1rem;
-    height: 360px;
+    min-height: 360px;
+    nargin-top:2rem;
   }
 
   .about-content {
