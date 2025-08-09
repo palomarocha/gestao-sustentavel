@@ -1,6 +1,5 @@
 ## 🌿 Projeto de Extensão - Gestão Sustentável dos Recursos Naturais (ODS 12) 🌍
 
----
 
 ## 📖 Sobre o projeto:
 
@@ -32,4 +31,4 @@ Projeto feito por mim, Paloma Rocha. Se usar, por favor dê os créditos.
 
 ---
 
-##🔗 Confira aqui: []
+## 🔗Confira aqui: []
