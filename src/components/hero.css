@@ -55,7 +55,7 @@
 
 @media (max-width: 480px) {
   .hero {
-    height: 50vh;
+    min-height: 50vh;
     padding: 0 0.8rem;
   }
 
