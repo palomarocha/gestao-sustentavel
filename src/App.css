@@ -12,5 +12,5 @@ html {
 }
 @media (max-width: 480px) {
   body{
-    margin-top: 90vh;
+    margin-top: 30vh;
   }
